@@ -9,7 +9,7 @@ const Navbar = () => {
       <nav className='pt-10 px-7 md:px-6 py-3 lg max-w-[700px] mx-auto flex justify-between items-center gap-3'>
         <div>
           <a id='nav-wacko' href="/" className='pb-0 md:pb-10'>
-            <span className="self-center text-4xl font-semibold whitespace-nowrap text-primaryTextColor font-VT323">Wacko</span>
+            <span className="self-center text-4xl font-semibold whitespace-nowrap text-primaryTextColor font-VT323">Buy Me Kopi</span>
           </a>
         </div>
 
